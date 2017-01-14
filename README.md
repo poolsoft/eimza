@@ -18,6 +18,7 @@ Bu proje DENEYSEL bir projedir. Kullanımından tamamen kullanıcı sorumludur. 
 * Akis'in *.so dosyalarını ```/usr/lib```'e kopyaladıktan sonra ```ldconfig -v``` çalıştırın.
 
 ### Gerekli Paketler
+```
 libtool-ltdl
 libtool-ltdl-devel
 pcsc-lite
@@ -28,4 +29,4 @@ libusb (akıllı kart için)
 libusbx
 libusb-devel
 libusbx-devel
-
+```
